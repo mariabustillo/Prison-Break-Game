@@ -1,0 +1,2 @@
+# Prison-Break-Game
+Text Adventure Game based on the series Prison Break it is a series based on two brothers that one of them was wrongly accused by a crime and got a life imprisonment, and Michael his brother made a whole plan to get him out of prison before they kill him. The game is based on a series of events of the season 2 when they try to escape from prison.  The objective of the game is for the player to try to get out of prison, going from stage to stage, making the best decision to achieve it without getting caught by the police. 
